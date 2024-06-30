@@ -3,5 +3,12 @@
     <style name="Base.Theme.TinyFlashlight" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">#4A4A4A</item>
+        <item name="colorPrimaryVariant">#333333</item>
+        <item name="colorOnPrimary">#000000</item>
+
+        <item name="colorSecondary">#111217</item>
+        <item name="colorSecondaryVariant">#101113</item>
+        <item name="colorOnSecondary">#070709</item>
     </style>
 </resources>
